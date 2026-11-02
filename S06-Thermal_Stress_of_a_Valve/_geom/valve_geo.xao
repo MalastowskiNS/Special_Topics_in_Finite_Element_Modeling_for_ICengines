@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XAO version="1.0" author="Gmsh">
+  <geometry name="untitled">
+    <shape format="BREP"><![CDATA[
+CASCADE Topology V1, (c) Matra-Datavision
+Locations 0
+Curve2ds 0
+Curves 18
+1 0.001575 0.36145068724634699 0 -0.86602540378443882 -0.49999999999999989 0 
+1 2.7755575615628901e-17 0.36054136057237401 0 0 -1 0 
+1 2.7755575615628901e-17 0 0 1 0 0 
+2 0.042999999999999997 0.002 0 0 0 1 -1 0 0 0 -1 0 0.002
+1 0.044999999999999998 0.00200000000000003 0 0 1 0 
+1 0.044999999999999998 0.0060000000000001103 0 -0.70710678118656001 0.70710678118653503 0 
+1 0.041000000000000002 0.0099999999999999499 0 -0.86602540378443627 0.50000000000000422 0 
+2 0.050000000000000003 0.050396112851355097 0 0 0 -1 -1 0 0 0 1 0 0.040000000000000001
+1 0.0099999999999999794 0.050396112851355097 0 0 1 0 
+1 0.0094239738237577794 0.33148507783387998 0 0.00307115365127182 -0.99999528399650495 0 
+2 0.01298 0.33500000000000002 0 0 0 -1 -1 0 0 0 1 0 0.0050000000000000001
+1 0.0079799999999999992 0.33500000000000002 0 0 1 0 
+2 0.0097000000000000003 0.35999999999999999 0 0 0 -1 -1 0 0 0 1 0 0.0027500000000000198
+1 0.0079799999999999992 0.36214571666349499 0 0 1 0 
+1 0.0079799999999999992 0.36549999999999999 0 -0.70710678118657699 0.70710678118651804 0 
+1 0.0074800000000000101 0.36599999999999999 0 -1 0 0 
+1 0.0025000000000000898 0.36599999999999999 0 -0.50000000000001887 -0.86602540378442783 0 
+1 0.001575 0.36439785300299898 0 -1.17721473389249e-15 -1 0 
+Polygon3D 0
+PolygonOnTriangulations 0
+Surfaces 1
+1 0.022499999999999999 0.183 0 0 0 1 0 1 -0 -1 0 0 
+Triangulations 0
+
+TShapes 39
+Ve
+1e-07
+0.001575 0.361450687246347 0
+0 0
+
+0101101
+*
+Ve
+1e-07
+2.77555756156289e-17 0.360541360572374 0
+0 0
+
+0101101
+*
+Ed
+ 1e-07 1 1 0
+1  1 0 0 0.00181865334794696
+0
+
+0101000
++39 0 -38 0 *
+Ve
+1e-07
+2.77555756156289e-17 0 0
+0 0
+
+0101101
+*
+Ed
+ 1e-07 1 1 0
+1  2 0 0 0.360541360572374
+0
+
+0101000
++38 0 -36 0 *
+Ve
+1e-07
+0.043 0 0
+0 0
+
+0101101
+*
+Ed
+ 1e-07 1 1 0
+1  3 0 0 0.043
+0
+
+0101000
++36 0 -34 0 *
+Ve
+1e-07
+0.045 0.00200000000000003 0
+0 0
+
+0101101
+*
+Ed
+ 1e-07 1 1 0
+1  4 0 1.5707963267949 3.14159265358979
+0
+
+0101000
++34 0 -32 0 *
+Ve
+1e-07
+0.045 0.00600000000000012 0
+0 0
+
+0101101
+*
+Ed
+ 1e-07 1 1 0
+1  5 0 0 0.00400000000000009
+0
+
+0101000
++32 0 -30 0 *
+Ve
+1e-07
+0.041 0.00999999999999995 0
+0 0
+
+0101101
+*
+Ed
+ 1e-07 1 1 0
+1  6 0 6.74649103340673e-18 0.00565685424949226
+0
+
+0101000
++30 0 -28 0 *
+Ve
+1e-07
+0.0358038475772931 0.0130000000000001 0
+0 0
+
+0101101
+*
+Ed
+ 1e-07 1 1 0
+1  7 0 0 0.00600000000000031
+0
+
+0101000
++28 0 -26 0 *
+Ve
+1e-07
+0.00999999999999997 0.0503961128513551 0
+0 0
+
+0101101
+*
+Ed
+ 1e-07 1 1 0
+1  8 0 5.07520015855433 6.28318530717959
+0
+
+0101000
++26 0 -24 0 *
+Ve
+1e-07
+0.00999999999999998 0.14392576784553 0
+0 0
+
+0101101
+*
+Ed
+ 1e-07 1 1 0
+1  9 0 0 0.0935296549941749
+0
+
+0101000
++24 0 -22 0 *
+Ve
+1e-07
+0.00942397382375778 0.33148507783388 0
+0 0
+
+0101101
+*
+Ed
+ 1e-07 1 1 0
+1  10 0 0 0.187560194522883
+0
+
+0101000
++20 0 -22 0 *
+Ve
+1e-07
+0.00798 0.335 0
+0 0
+
+0101101
+*
+Ed
+ 1e-07 1 1 0
+1  11 0 5.50360016137847 6.28318530717959
+0
+
+0101000
++20 0 -18 0 *
+Ve
+1e-07
+0.00798 0.357854283336505 0
+0 0
+
+0101101
+*
+Ed
+ 1e-07 1 1 0
+1  12 0 0 0.022854283336505
+0
+
+0101000
++18 0 -16 0 *
+Ve
+1e-07
+0.00798 0.362145716663495 0
+0 0
+
+0101101
+*
+Ed
+ 1e-07 1 1 0
+1  13 0 5.38810293334421 7.17826768101497
+0
+
+0101000
++16 0 -14 0 *
+Ve
+1e-07
+0.00798 0.3655 0
+0 0
+
+0101101
+*
+Ed
+ 1e-07 1 1 0
+1  14 0 0 0.003354283336505
+0
+
+0101000
++14 0 -12 0 *
+Ve
+1e-07
+0.00748000000000001 0.366 0
+0 0
+
+0101101
+*
+Ed
+ 1e-07 1 1 0
+1  15 0 0 0.00070710678118654
+0
+
+0101000
++12 0 -10 0 *
+Ve
+1e-07
+0.00250000000000009 0.366 0
+0 0
+
+0101101
+*
+Ed
+ 1e-07 1 1 0
+1  16 0 0 0.00497999999999992
+0
+
+0101000
++10 0 -8 0 *
+Ve
+1e-07
+0.001575 0.364397853002999 0
+0 0
+
+0101101
+*
+Ed
+ 1e-07 1 1 0
+1  17 0 0 0.00184999999999987
+0
+
+0101000
++8 0 -6 0 *
+Ed
+ 1e-07 1 1 0
+1  18 0 0 0.00294716575665199
+0
+
+0101000
++6 0 -39 0 *
+Wi
+
+0101100
++37 0 +35 0 +33 0 +31 0 +29 0 +27 0 +25 0 +23 0 +21 0 -19 0 
++17 0 +15 0 +13 0 +11 0 +9 0 +7 0 +5 0 +4 0 *
+Fa
+0  1e-07 1 0
+
+0111000
++3 0 *
+Co
+
+1100000
++2 0 *
+
++1 0 ]]></shape>
+    <topology>
+      <vertices count="18">
+        <vertex index="0" name="" reference="5"/>
+        <vertex index="1" name="" reference="6"/>
+        <vertex index="2" name="" reference="8"/>
+        <vertex index="3" name="" reference="10"/>
+        <vertex index="4" name="" reference="12"/>
+        <vertex index="5" name="" reference="14"/>
+        <vertex index="6" name="" reference="16"/>
+        <vertex index="7" name="" reference="18"/>
+        <vertex index="8" name="" reference="20"/>
+        <vertex index="9" name="" reference="22"/>
+        <vertex index="10" name="" reference="24"/>
+        <vertex index="11" name="" reference="26"/>
+        <vertex index="12" name="" reference="28"/>
+        <vertex index="13" name="" reference="30"/>
+        <vertex index="14" name="" reference="32"/>
+        <vertex index="15" name="" reference="34"/>
+        <vertex index="16" name="" reference="36"/>
+        <vertex index="17" name="" reference="38"/>
+      </vertices>
+      <edges count="18">
+        <edge index="0" name="" reference="4"/>
+        <edge index="1" name="" reference="7"/>
+        <edge index="2" name="" reference="9"/>
+        <edge index="3" name="" reference="11"/>
+        <edge index="4" name="" reference="13"/>
+        <edge index="5" name="" reference="15"/>
+        <edge index="6" name="" reference="17"/>
+        <edge index="7" name="" reference="19"/>
+        <edge index="8" name="" reference="21"/>
+        <edge index="9" name="" reference="23"/>
+        <edge index="10" name="" reference="25"/>
+        <edge index="11" name="" reference="27"/>
+        <edge index="12" name="" reference="29"/>
+        <edge index="13" name="" reference="31"/>
+        <edge index="14" name="" reference="33"/>
+        <edge index="15" name="" reference="35"/>
+        <edge index="16" name="" reference="37"/>
+        <edge index="17" name="" reference="39"/>
+      </edges>
+      <faces count="1">
+        <face index="0" name="Shapes/Surface & & 9" reference="2"/>
+      </faces>
+      <solids count="0">
+      </solids>
+    </topology>
+  </geometry>
+  <groups count="7">
+    <group name="cc_face" dimension="edge" tag="20" count="3">
+      <element index="2"/>
+      <element index="3"/>
+      <element index="4"/>
+    </group>
+    <group name="axis" dimension="edge" tag="21" count="1">
+      <element index="1"/>
+    </group>
+    <group name="seat_face" dimension="edge" tag="22" count="1">
+      <element index="5"/>
+    </group>
+    <group name="channel_face" dimension="edge" tag="23" count="3">
+      <element index="6"/>
+      <element index="7"/>
+      <element index="8"/>
+    </group>
+    <group name="contact_face" dimension="edge" tag="24" count="1">
+      <element index="9"/>
+    </group>
+    <group name="top_face" dimension="edge" tag="25" count="9">
+      <element index="0"/>
+      <element index="10"/>
+      <element index="11"/>
+      <element index="12"/>
+      <element index="13"/>
+      <element index="14"/>
+      <element index="15"/>
+      <element index="16"/>
+      <element index="17"/>
+    </group>
+    <group name="valve" dimension="face" tag="19" count="1">
+      <element index="0"/>
+    </group>
+  </groups>
+  <fields count="0"/>
+</XAO>
