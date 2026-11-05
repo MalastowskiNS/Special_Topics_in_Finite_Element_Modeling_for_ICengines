@@ -39,7 +39,9 @@ The `Seminar\_Materials/` directory contains **PDF presentations** with problem 
 |01 — Plane truss analysis|[View PDF](Seminar_Materials/0.%20Plane_Truss_Analysis_EN.pdf)|
 |02 — Heat conduction in a plate|[View PDF](Seminar_Materials/1.%20Plate_Heat_EN.pdf)|
 |03 — Thermal analysis of a piston|[View PDF](Seminar_Materials/2.%20Piston_Heat_Analysis_EN.pdf)|
-|05 — Plane stress analysis|[View PDF](Seminar_Materials/3.%20Plane_Stress_Analysis_EN.pdf)|
+|04 — Plane stress analysis|[View PDF](Seminar_Materials/3.%20Plane_Stress_Analysis_EN.pdf)|
+|05 — Valve_thermoelastic analysis|[View PDF](Seminar_Materials/4.%20Valve_thermoelastic_FEA_EN.pdf)|
+
 
 ## License
 
